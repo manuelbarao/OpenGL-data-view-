@@ -16,6 +16,16 @@
         
     </dados>
 
+     
+
+    <dados name="time" datashowtype="piechart" positionx="900" positiony="500"  radius="600" >
+        <parcela name="Santos" amount="500000" color="random" ></parcela>
+        <parcela name="Vasco" amount="49840" color="random" ></parcela>
+        <parcela name="Corinthians" amount="148494" color="random" ></parcela>
+        <parcela name="Barcelona" amount="41654" color="random" ></parcela>
+        
+    </dados>
+
 
 </panel>
 <?include somedata?>

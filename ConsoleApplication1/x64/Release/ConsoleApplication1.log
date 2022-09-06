@@ -1,0 +1,20 @@
+﻿  main.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(216,10): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(216,22): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(25): message : see declaration of 'std'
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(216,40): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(216,52): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(25): message : see declaration of 'std'
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(216,64): error C3861: 'current_path': identifier not found
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(216,34): error C3861: 'current_path': identifier not found
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(220,37): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(220,49): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(25): message : see declaration of 'std'
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(220,61): error C3861: 'current_path': identifier not found
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(225,34): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(225,46): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\map(25): message : see declaration of 'std'
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(225,58): error C3861: 'current_path': identifier not found
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(303,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  pugixml.cpp

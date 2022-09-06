@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<panel name="Painel de clientes">
+
+
+    <dados name="clientes" datashowtype="piechart" positionx="200" positiony="200"  radius="100" >
+        <parcela name="jovens" amount="20" color="random" ></parcela>
+        <parcela name="adultos" amount="30" color="random" ></parcela>
+        <parcela name="idosos" amount="50" color="random" ></parcela>
+    </dados>
+
+
+    <dados name="sexo" datashowtype="piechart" positionx="500" positiony="100"  radius="100" >
+        <parcela name="homem" amount="50" color="random" ></parcela>
+        <parcela name="mulher" amount="50" color="random" ></parcela>
+        
+    </dados>
+
+
+</panel>
+<?include somedata?>

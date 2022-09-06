@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(312,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\main.cpp(382,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Swan\Desktop\Data View with OpenGL\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

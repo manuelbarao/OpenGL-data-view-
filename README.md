@@ -1,6 +1,5 @@
 # OpenGL-data-view-
-Just a proof of concept for job interview
-
+Just a proof of concept
 
 <h1> Usage: </h1>
 <h4>Edit data.xml from the same folder you are running the .exe, as shown in the image below</h4>
